@@ -1,4 +1,4 @@
-package Solution4;
+package ans4;
 
 import java.util.Scanner;
 
